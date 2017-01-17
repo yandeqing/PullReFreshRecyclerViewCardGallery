@@ -1,0 +1,13 @@
+*.iml
+.gradle
+/local.properties
+/.idea
+/.idea/libraries
+.DS_Store
+/build
+/captures
+LICENSE
+build.gradle
+pom.xml
+project.properties
+src/
