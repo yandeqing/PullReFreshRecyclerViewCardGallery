@@ -7,7 +7,6 @@
 /build
 /captures
 LICENSE
-build.gradle
 pom.xml
 project.properties
-src/
+build.gradle
